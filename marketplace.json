@@ -12,7 +12,7 @@
         "repo": "KaleoK/task-management"
       },
       "description": "Flat-file task management for Obsidian with daily/weekly views, priority system, and auto-archiving",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }

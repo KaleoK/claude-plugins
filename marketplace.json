@@ -1,0 +1,18 @@
+{
+  "name": "kaleok-plugins",
+  "owner": {
+    "name": "KaleoK",
+    "url": "https://github.com/KaleoK"
+  },
+  "plugins": [
+    {
+      "name": "task-management",
+      "source": {
+        "source": "github",
+        "repo": "KaleoK/task-management"
+      },
+      "description": "Flat-file task management for Obsidian with daily/weekly views, priority system, and auto-archiving",
+      "version": "1.0.0"
+    }
+  ]
+}
